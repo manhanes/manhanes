@@ -5,7 +5,7 @@
 </p>
 
 <p align="left">
- **Gestão 5.0, Lean, SCRUM, OKR, ITIL 4, COBIT 5, VMware (VCenter), DNS, Firewall, VPN, Networking, Linux, Windows Server, DRP, VoIP, Zabbix, Nagios, Strategic Planning, BPM, Cisco, Dell, Mail Server, Storage, SRE, Segurança da Informação, Micro serviços e Grafana.**
+Gestão 5.0, Lean, SCRUM, OKR, ITIL 4, COBIT 5, VMware (VCenter), DNS, Firewall, VPN, Networking, Linux, Windows Server, DRP, VoIP, Zabbix, Nagios, Strategic Planning, BPM, Cisco, Dell, Mail Server, Storage, SRE, Segurança da Informação, Micro serviços e Grafana.
 </p>
 
 <p align="left">
