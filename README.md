@@ -9,11 +9,11 @@ Gestão 5.0, Lean, SCRUM, OKR, ITIL 4, COBIT 5, VMware (VCenter), DNS, Firewall,
 </p>
 
 <p align="left">
-  💼 Ferramentas: **Coloque as suas ferramentas de trabalho.**
+Advanced experience with (System Administration with Linux Ubuntu, Debian, SlackWare, Suse, FreeBSD, CentOS, RedHat), System Administration Windows Server 2003/2008, Networking and troubleshooting (TCP/IP, UDP, SNMP, SMTP, FTP, SSH, IMAP, LDAP, NTP, POP, DNS, routing (RIP, OSPF, BDF and BGP), switching layers 2 and 3, firewalls (IPTables, Juniper, Fortigate, Mikrotik), LAN/MAN/WAN (MPLS, Asynchronous Transfer Mode (ATM) and Frame Relay), traceroute, iperf, dig, wireshark, TCPdump, Netstat, cURL, CPAM for Perl packages, virtualization and cloud computing (MS Hypervisors, VMware ESXI/VCenter, XenServer, Qemu-KVM), networking virtualization (Routers, Switchs), Good understanding of security best practices ISO2700, Beowulf Cluster Computing with Linux, RaspBerry PI with Linux, small router with Quagga Linux, WebServer Apache, VPN (L2TP, IPSEC, PPTP, SSTP, OVPN, PPPoE), Storage Lenovo EMC, Dell PowerVault, Mylex, IBM ServerRaid, MegaRaid, physical server Dell PowerEdge, IBM's Netfinity, monitoring with Nagios and Zabbix and mail server (Qmail, Postfix, Zimbra and OpenExchange).
 </p>
 
 <p align="left">
-  💌 Aqui vai uma mensagem para entrar em contato com você: ⤵️
+  💌 Bem vindo a minha pagina inicial no GitHub
 </p>
 
 <p align="left">
