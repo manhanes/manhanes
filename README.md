@@ -1,8 +1,7 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
 <p align="left"> 
-  Faça uma breve apresentação sua com o seu nome e não esqueça a <strong>sua stack</strong>.<br>
-  Diga o que você está fazendo no momento, se trabalha ou estuda.
+ Carreira desenvolvida na área de Tecnologia da Informação, com ampla experiência na administração de pessoas, gerenciamento de riscos, gestão de orçamento, gerenciamento da segurança da informação, padronização de processos, gestão de projetos, gestão de resposta a incidentes, gestão de infraestrutura de tecnologia da informação e segurança da informação.
 </p>
 
 <p align="left">
